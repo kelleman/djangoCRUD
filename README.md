@@ -1,2 +1,2 @@
-# djangoCRUD
-this is a CRUD API
+# DjangoCRUD
+This is a CRUD API
